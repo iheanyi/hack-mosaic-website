@@ -55,8 +55,8 @@
     },
     {
       "component": "header",
-      "heading": "hack-mosaic-website",
-      "subhead": "Website for Hack Mosaic",
+      "heading": "Hack Mosaic",
+      "subhead": "A meetup for software engineers of color.",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -67,6 +67,13 @@
           "component": "ui/GithubButton",
           "user": "iheanyi",
           "repo": "hack-mosaic-website"
+        }
+      ],
+      "text": "",
+      "links": [
+        {
+          "href": "",
+          "text": ""
         }
       ]
     },
