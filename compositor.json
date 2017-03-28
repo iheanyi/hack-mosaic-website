@@ -70,19 +70,7 @@
         }
       ],
       "text": "",
-      "links": [
-        {
-          "href": "",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "component": "article",
-      "metadata": {
-        "source": "github.readme"
-      },
-      "html": "\n<p>Website for hackmosaic.com</p>\n"
+      "links": []
     },
     {
       "component": "footer",
